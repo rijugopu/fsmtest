@@ -1,0 +1,17 @@
+{
+    "Data": [
+        {
+            "JobCategoryId": 33,
+            "JobCategory": "At Workshop Site"
+        },
+        {
+            "JobCategoryId": 27,
+            "JobCategory": "At Customer Site"
+        }
+    ],
+    "Message": {
+        "Severity": 0,
+        "StatusCode": "00",
+        "StatusInfo": "Success"
+    }
+}
